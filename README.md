@@ -1,1 +1,1 @@
-Tutaj umieszczać projekt
+This project is a C++ implementation of the Wave Function Collapse (WFC) algorithm, a procedural content generation technique used to create 2D patterns, maps, or textures by respecting predefined constraints.
